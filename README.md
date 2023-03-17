@@ -1,1 +1,1 @@
-# slocal2023
+#This webpage holds the reading seminar on stochastic localization.
