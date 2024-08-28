@@ -1,1 +1,1 @@
-#This webpage holds the reading seminar on stochastic localization.
+#This webpage hosts the reading seminar on stochastic localization.
